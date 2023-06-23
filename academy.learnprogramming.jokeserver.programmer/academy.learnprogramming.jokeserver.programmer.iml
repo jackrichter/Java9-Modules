@@ -8,9 +8,6 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="academy.learnprogramming.jokeserver" exported="" />
-    <orderEntry type="module" module-name="academy.learnprogramming.jokeserver.kid" />
-    <orderEntry type="module" module-name="academy.learnprogramming.jokeserver.kid" />
-    <orderEntry type="module" module-name="academy.learnprogramming.jokeserver.programmer" exported="" />
-    <orderEntry type="module" module-name="academy.learnprogramming.jokeserver.programmer" />
+    <orderEntry type="module" module-name="academy.learnprogramming.jokeserver" />
   </component>
 </module>
